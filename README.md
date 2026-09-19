@@ -18,7 +18,7 @@ Key Business Insights
 
 Dashboard Screenshots
 
-*(Upload your dashboard image to GitHub and insert screenshot link here)*
+https://github.com/souz-2408/saas_customer_churn_analysis/blob/main/dashboard_screenshot.png.png
 
 ---
 
