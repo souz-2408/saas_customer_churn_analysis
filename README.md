@@ -22,7 +22,7 @@ https://github.com/souz-2408/saas_customer_churn_analysis/blob/main/dashboard_sc
 
 ---
 
-trategic Recommendations
+Strategic Recommendations
 
 * **Automated Intervention:** Implement a CRM rule to trigger proactive account outreach upon a user logging their **3rd support ticket**[cite: 1].
 * **Contract Incentives:** Offer targeted 10% discounts to convert high-risk Month-to-Month subscribers into Annual plans[cite: 1].
